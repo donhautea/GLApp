@@ -1,0 +1,742 @@
+﻿,Type,Account Group Code,Ledger Account Code,Ledger Account Name,GL Account
+0,A,SundryDebtors,A020700,AB CAPITAL SECURITIES INC. - BK28,2101001003.0
+1,A,SundryDebtors,A020700,AB CAPITAL SECURITIES INC. - BK28,1103024002.0
+2,A,SundryDebtors,A020700,AB CAPITAL SECURITIES INC. - BK28,2101001003.0
+3,A,SundryDebtors,A020700,AB CAPITAL SECURITIES INC. - BK28,1103024001.0
+4,A,SundryDebtors,A020703,ABACUS SECURITIES CORPORATION - BK29,2101001003.0
+5,A,SundryDebtors,A020703,ABACUS SECURITIES CORPORATION - BK29,1103024002.0
+6,A,SundryDebtors,A020703,ABACUS SECURITIES CORPORATION - BK29,2101001003.0
+7,A,SundryDebtors,A020703,ABACUS SECURITIES CORPORATION - BK29,1103024001.0
+8,L,CurrentLiabilities,L014452,Account Payable,2101001003.0
+9,A,CurrentAssets,A014882,Account Receivable,1103024002.0
+10,A,CurrentAssets,A023664,Accum Imp Loss-CNB-CBonds,1209005002.0
+11,A,CurrentAssets,A023665,Accum Imp Loss-CNB-Cbonds-Current,1209002151.0
+12,A,CurrentAssets,A023667,Accum Imp Loss-CNB-CNotes,1209005001.0
+13,A,CurrentAssets,A023668,Accum Imp Loss-CNB-Cnotes-Current,1209002150.0
+14,A,CurrentAssets,A023666,Accum Imp Loss-FVOCI-CBonds,1209004006.0
+15,A,CurrentAssets,A023669,Accum Imp Loss-IR CNB-Corporate Bonds,1209003002.0
+16,A,CurrentAssets,A023670,Accum Imp Loss-IR CNB-Corporate Notes,1209003001.0
+17,A,CurrentAssets,A023671,Accumulated Imp Loss- Int Rec FVTOCI CNB-Corporate Bonds,1209002501.0
+18,E,ExpenseLosses,E021162,Amortization Expense in Corporate Bonds,4003024003.0
+19,E,ExpenseLosses,E021162,Amortization Expense in Corporate Bonds,4003007002.0
+20,E,ExpenseLosses,E020952,Amortization Expense in FXTN,4003024002.0
+21,E,ExpenseLosses,E020952,Amortization Expense in FXTN,4003006001.0
+22,E,ExpenseLosses,E021120,Amortization Expense in Government Bonds,4003024002.0
+23,E,ExpenseLosses,E021120,Amortization Expense in Government Bonds,4003006001.0
+24,E,ExpenseLosses,E020994,Amortization Expense in RTB,4003024002.0
+25,E,ExpenseLosses,E020994,Amortization Expense in RTB,4003006001.0
+26,E,ExpenseLosses,E022328,Amortization Expense in Tokenized Treasury Bond,4003024002.0
+27,E,ExpenseLosses,E022328,Amortization Expense in Tokenized Treasury Bond,4003006001.0
+28,I,IncomeGains,I021148,Amortization Income on Corporate Bonds,4003024003.0
+29,I,IncomeGains,I021148,Amortization Income on Corporate Bonds,4003007002.0
+30,I,IncomeGains,I020938,Amortization Income on FXTN,4003024002.0
+31,I,IncomeGains,I020938,Amortization Income on FXTN,4003006001.0
+32,I,IncomeGains,I021106,Amortization Income on Government Bonds,4003024002.0
+33,I,IncomeGains,I021106,Amortization Income on Government Bonds,4003006001.0
+34,I,IncomeGains,I020980,Amortization Income on RTB,4003024002.0
+35,I,IncomeGains,I020980,Amortization Income on RTB,4003006001.0
+36,I,IncomeGains,I022314,Amortization Income on Tokenized Treasury Bond,4003024002.0
+37,I,IncomeGains,I022314,Amortization Income on Tokenized Treasury Bond,4003006001.0
+38,A,SundryDebtors,A020704,"AP SECURITIES, INCORPORATED - BK30",2101001003.0
+39,A,SundryDebtors,A020917,"Asiasec Equities, Inc. - BK52",2101001003.0
+40,A,SundryDebtors,A020707,"BA SECURITIES, INC. - BK31",2101001003.0
+41,E,ExpenseLosses,E022188,Bank Charges in BPI - Savings Account - 1991005486,6002022000.0
+42,E,ExpenseLosses,E022198,Bank Charges in CBC - Savings Account - 2034798713,6002022000.0
+43,E,ExpenseLosses,E020829,Bank Charges in DBP BEN - Savings Account - 0405018831088,6002022000.0
+44,E,ExpenseLosses,E021973,Bank Charges in DBP BEN - Savings Account - 0405018831091,6002022000.0
+45,E,ExpenseLosses,E020824,Bank Charges in DBP EC FUND - Savings Account - 0405018831080,6002022000.0
+46,E,ExpenseLosses,E020819,Bank Charges in DBP EQUITIES - Savings Account - 0405018831530,6002022000.0
+47,E,ExpenseLosses,E020834,Bank Charges in DBP LOANS - Savings Account - 0405018831089,6002022000.0
+48,E,ExpenseLosses,E021963,Bank Charges in DBP LOANS - Savings Account - 0405018831091,6002022000.0
+49,E,ExpenseLosses,E023570,Bank Charges in DBP Main 2 - Checking Account - 0405018833531,6002022000.0
+50,E,ExpenseLosses,E023565,Bank Charges in DBP Main 2 - Checking Account - 1020634052,6002022000.0
+51,E,ExpenseLosses,E021953,Bank Charges in DBP Main 2 - Savings Account - 0405018831530,6002022000.0
+52,E,ExpenseLosses,E020854,Bank Charges in DBP Main 2 - Savings Account - 0405018833530,6002022000.0
+53,E,ExpenseLosses,E021948,Bank Charges in DBP Main Account - Savings Account - 0405018831530,6002022000.0
+54,E,ExpenseLosses,E020814,Bank Charges in DBP Main Account - Savings Account - 0405018831531,6002022000.0
+55,E,ExpenseLosses,E020839,Bank Charges in DBP MPF - Savings Account - 0405018831091,6002022000.0
+56,E,ExpenseLosses,E021968,Bank Charges in DBP NVPF - Savings Account - 0405018831091,6002022000.0
+57,E,ExpenseLosses,E020849,Bank Charges in DBP NVPF - Savings Account - 0405018831093,6002022000.0
+58,E,ExpenseLosses,E021958,Bank Charges in DBP PENSION - Savings Account - 0405018831091,6002022000.0
+59,E,ExpenseLosses,E020844,Bank Charges in DBP PENSION - Savings Account - 0405018831092,6002022000.0
+60,E,ExpenseLosses,E022133,Bank Charges in EC SSD - Savings Account - 0405018831531,6002022000.0
+61,E,ExpenseLosses,E022138,Bank Charges in EC SSD - Savings Account - 0572100324,6002022000.0
+62,E,ExpenseLosses,E022163,Bank Charges in FLEXI SSD - Savings Account - 0405018831531,6002022000.0
+63,E,ExpenseLosses,E022168,Bank Charges in FLEXI SSD - Savings Account - 0572100324,6002022000.0
+64,E,ExpenseLosses,E020779,Bank Charges in LBP EC - Checking Account - 0572105032,6002022000.0
+65,E,ExpenseLosses,E020784,Bank Charges in LBP FLEXI - Checking Account - 0572105318,6002022000.0
+66,E,ExpenseLosses,E020751,Bank Charges in LBP MAIN - Checking Account - 0572100324,6002022000.0
+67,E,ExpenseLosses,E022029,Bank Charges in LBP MAIN - Savings Account - 0574000548,6002022000.0
+68,E,ExpenseLosses,E020794,Bank Charges in LBP MIA - Checking Account - 0572105334,6002022000.0
+69,E,ExpenseLosses,E020804,Bank Charges in LBP MPF - Checking Account - 0572106470,6002022000.0
+70,E,ExpenseLosses,E020789,Bank Charges in LBP PESO - Checking Account - 0572105326,6002022000.0
+71,E,ExpenseLosses,E020809,Bank Charges in LBP PESONET - Checking Account - 0572106489,6002022000.0
+72,E,ExpenseLosses,E020799,Bank Charges in LBP SSS - Checking Account - 0572106462,6002022000.0
+73,E,ExpenseLosses,E020859,Bank Charges in MBTC IBCA - Checking Account - 2327232503951,6002022000.0
+74,E,ExpenseLosses,E022153,Bank Charges in MIA SSD - Savings Account - 0405018831531,6002022000.0
+75,E,ExpenseLosses,E022158,Bank Charges in MIA SSD - Savings Account - 0572100324,6002022000.0
+76,E,ExpenseLosses,E022173,Bank Charges in MPF SSD - Savings Account - 0405018831531,6002022000.0
+77,E,ExpenseLosses,E022178,Bank Charges in MPF SSD - Savings Account - 0572100324,6002022000.0
+78,E,ExpenseLosses,E022143,Bank Charges in NVPF SSD - Savings Account - 0405018831531,6002022000.0
+79,E,ExpenseLosses,E022148,Bank Charges in NVPF SSD - Savings Account - 0572100324,6002022000.0
+80,E,ExpenseLosses,E022123,Bank Charges in PESO SSD - Savings Account - 0405018831531,6002022000.0
+81,E,ExpenseLosses,E022128,Bank Charges in PESO SSD - Savings Account - 0572100324,6002022000.0
+82,E,ExpenseLosses,E022118,Bank Charges in PESO SSD - Savings Account - 2034798713,6002022000.0
+83,E,ExpenseLosses,E020654,Bank Charges in PNB - Checking Account - 2828,6002022000.0
+84,E,ExpenseLosses,E020864,Bank Charges in PNB Main - Checking Account - 108470001186,6002022000.0
+85,E,ExpenseLosses,E022193,Bank Charges in SBC - Savings Account - 0162042529200,6002022000.0
+86,E,ExpenseLosses,E022183,Bank Charges in UBP - Savings Account - 000400008506,6002022000.0
+87,A,SundryDebtors,A022341,Bank of Commerce - BK53,2101001003.0
+88,A,SundryDebtors,A020867,BDO CAPITAL & INVESTMENT CORPORATION - CP4,2101001003.0
+89,A,SundryDebtors,A020708,BDO SECURITIES CORPORATION - BK32,2101001003.0
+90,A,Bank,A022185,BPI - Savings Account - 1991005486,1101014863.0
+91,A,SundryDebtors,A020868,BPI CAPITAL CORPORATION - CP5,2101001003.0
+92,A,SundryDebtors,A020711,BPI SECURITIES CORPORATION - BK33,2101001003.0
+93,E,Brokerage,E020754,Brokerage in Common Shares,4010005000.0
+94,E,Brokerage,E022212,Brokerage in Common Shares - OCI,4010006000.0
+95,E,Brokerage,E022258,Brokerage in Treasury Bills,4010005300.0
+96,A,Bank,A022195,CBC - Savings Account - 2034798713,1101017133.0
+97,A,SundryDebtors,A020869,CHINA BANK CAPITAL CORPORATION - CP6,2101001003.0
+98,A,SundryDebtors,A020698,CHINA BANKING CORPORATION - CP1,2101001003.0
+99,A,SundryDebtors,A020699,CITIBANK N.A. (PHILIPPINES BRANCH) - CP2,2101001003.0
+100,A,SundryDebtors,A020712,"CLSA PHILIPPINES, INC. - BK34",2101001003.0
+101,A,SundryDebtors,A020715,"COL FINANCIAL GROUP, INC. - BK35",2101001003.0
+102,A,SundryDebtors,A020870,CTBC BANK (PHILIPPINES) CORP. - CP7,2101001003.0
+103,A,Bank,A021970,DBP BEN - Savings Account - 0405018831091,1101015303.0
+104,A,Bank,A020821,DBP EC FUND - Savings Account - 0405018831080,1101021503.0
+105,A,Bank,A020816,DBP EQUITIES - Savings Account - 0405018831530,1101010513.0
+106,A,Bank,A021960,DBP LOANS - Savings Account - 0405018831091,1101015303.0
+107,A,Bank,A023567,DBP Main 2 - Checking Account - 0405018833531,1101019103.0
+108,A,Bank,A023562,DBP Main 2 - Checking Account - 1020634052,1101010523.0
+109,A,Bank,A021950,DBP Main 2 - Savings Account - 0405018831530,1101010513.0
+110,A,Bank,A020851,DBP Main 2 - Savings Account - 0405018833530,1101010523.0
+111,A,Bank,A021945,DBP Main Account - Savings Account - 0405018831530,1101010513.0
+112,A,Bank,A020811,DBP Main Account - Savings Account - 0405018831531,1101010583.0
+113,A,Bank,A020836,DBP MPF - Savings Account - 0405018831091,1101015303.0
+114,A,Bank,A021965,DBP NVPF - Savings Account - 0405018831091,1101015303.0
+115,A,Bank,A020846,DBP NVPF - Savings Account - 0405018831093,1101015403.0
+116,A,Bank,A021955,DBP PENSION - Savings Account - 0405018831091,1101015303.0
+117,A,SundryDebtors,A020871,"DEVELOPMENT BANK OF THE PHILIPPINES
+ - CP8",2101001003.0
+118,A,SundryDebtors,A020716,DIRECT - BK36,2101001003.0
+119,I,DividendsIncome,I020759,Dividend in Common Shares,4005001000.0
+120,I,DividendsIncome,I022217,Dividend in Common Shares - OCI,4005002000.0
+121,I,DividendsIncome,I020894,Dividend in Preferred Shares,4005001000.0
+122,I,DividendsIncome,I022240,Dividend in Preferred Shares	 - OCI,4005002000.0
+123,A,CurrentAssets,A020758,Dividend Receivable in Common Shares,1103023001.0
+124,A,CurrentAssets,A022216,Dividend Receivable in Common Shares - OCI,1103023002.0
+125,A,CurrentAssets,A020893,Dividend Receivable in Preferred Shares,1103023001.0
+126,A,CurrentAssets,A022239,Dividend Receivable in Preferred Shares	 - OCI,1103023002.0
+127,A,SundryDebtors,A020719,"F. YAP SECURITIES, INC. - BK37",2101001003.0
+128,A,SundryDebtors,A020874,FIRST METRO INVESTMENT CORPORATION - CP11,2101001003.0
+129,A,SundryDebtors,A020720,FIRST METRO SECURITIES BROKERAGE CORPORATION - BK38,2101001003.0
+130,A,Bank,A022160,FLEXI SSD - Savings Account - 0405018831531,1101010583.0
+131,A,Bank,A022165,FLEXI SSD - Savings Account - 0572100324,1101013243.0
+132,I,IncomeGains,I023672,Imp Loss-CNB-Corporate Notes,4011005001.0
+133,I,IncomeGains,I023680,Imp Loss-FVOCI-CBonds,4011004006.0
+134,I,IncomeGains,I023679,Impairment Loss-IR CNB-Corporate Bonds,4011002002.0
+135,I,IncomeGains,I023674,Impairment Loss-IR CNB-Corporate Notes,4011002001.0
+136,I,IncomeGains,I023675,Impairment Loss-IR FVOCI CNB-Corporate Bonds,4011003501.0
+137,A,CurrentAssets,A021143,Interest Accrued on Corporate Bonds,1103007011.0
+138,A,CurrentAssets,A021143,Interest Accrued on Corporate Bonds,1103007013.0
+139,A,CurrentAssets,A021143,Interest Accrued on Corporate Bonds,1103008002.0
+140,A,CurrentAssets,A022354,Interest Accrued on Foreign Currency Denominated TD-USD BDO,1103002004.0
+141,A,CurrentAssets,A022438,Interest Accrued on Foreign Currency Denominated TD-USD DBP,1103002007.0
+142,A,CurrentAssets,A022480,Interest Accrued on Foreign Currency Denominated TD-USD LBP,1103002009.0
+143,A,CurrentAssets,A022522,Interest Accrued on Foreign Currency Denominated TD-USD MBTC,1103002010.0
+144,A,CurrentAssets,A022564,Interest Accrued on Foreign Currency Denominated TD-USD PNB,1103002005.0
+145,A,CurrentAssets,A022606,Interest Accrued on Foreign Currency Denominated TD-USD UBP,1103002003.0
+146,A,CurrentAssets,A020933,Interest Accrued on FXTN,1103007010.0
+147,A,CurrentAssets,A020933,Interest Accrued on FXTN,1103007012.0
+148,A,CurrentAssets,A020933,Interest Accrued on FXTN,1103007001.0
+149,A,CurrentAssets,A021101,Interest Accrued on Government Bonds,1103007010.0
+150,A,CurrentAssets,A021101,Interest Accrued on Government Bonds,1103007012.0
+151,A,CurrentAssets,A021101,Interest Accrued on Government Bonds,1103007001.0
+152,A,CurrentAssets,A022396,Interest Accrued on Peso Time Deposit-BDO,1103001006.0
+153,A,CurrentAssets,A022648,Interest Accrued on Peso Time Deposit-BPI,1103001004.0
+154,A,CurrentAssets,A022690,Interest Accrued on Peso Time Deposit-Metrobank,1103001003.0
+155,A,CurrentAssets,A022732,Interest Accrued on Peso Time Deposit-PNB,1103001001.0
+156,A,CurrentAssets,A022774,Interest Accrued on Peso Time Deposit-UBP,1103001002.0
+157,A,CurrentAssets,A022816,Interest Accrued on Peso Time Deposit-UCPB,1103001011.0
+158,A,CurrentAssets,A020975,Interest Accrued on RTB,1103007010.0
+159,A,CurrentAssets,A020975,Interest Accrued on RTB,1103007012.0
+160,A,CurrentAssets,A020975,Interest Accrued on RTB,1103007001.0
+161,A,CurrentAssets,A021816,Interest Accrued on SSD - Dollar BDO,1103002004.0
+162,A,CurrentAssets,A021774,Interest Accrued on SSD - Dollar DBP,1103002007.0
+163,A,CurrentAssets,A021732,Interest Accrued on SSD - Dollar LBP,1103002009.0
+164,A,CurrentAssets,A021690,Interest Accrued on SSD - Dollar MBTC,1103002010.0
+165,A,CurrentAssets,A021858,Interest Accrued on SSD - Dollar PNB,1103002005.0
+166,A,CurrentAssets,A021900,Interest Accrued on SSD - Dollar UBP,1103002003.0
+167,A,CurrentAssets,A021480,Interest Accrued on SSD BDO - PHP,1103003006.0
+168,A,CurrentAssets,A021522,Interest Accrued on SSD BPI - PHP,1103003007.0
+169,A,CurrentAssets,A021606,Interest Accrued on SSD CBC - PHP,1103003010.0
+170,A,CurrentAssets,A021312,Interest Accrued on SSD DBP - PHP,1103003001.0
+171,A,CurrentAssets,A021354,Interest Accrued on SSD LBP - PHP,1103003002.0
+172,A,CurrentAssets,A021648,Interest Accrued on SSD MBTC - PHP,1103003018.0
+173,A,CurrentAssets,A021396,Interest Accrued on SSD PNB - PHP,1103003003.0
+174,A,CurrentAssets,A021564,Interest Accrued on SSD SBC - PHP,1103003009.0
+175,A,CurrentAssets,A021438,Interest Accrued on SSD UBP - PHP,1103003004.0
+176,A,CurrentAssets,A022900,Interest Accrued on STMP FCD Time Deposit-USD BDO,1103002004.0
+177,A,CurrentAssets,A022942,Interest Accrued on STMP FCD Time Deposit-USD PNB,1103002005.0
+178,A,CurrentAssets,A022984,Interest Accrued on STMP FCD Time Deposit-USD UBP,1103002003.0
+179,A,CurrentAssets,A023026,Interest Accrued on STMP Peso Time Deposit-BDO,1103001006.0
+180,A,CurrentAssets,A023068,Interest Accrued on STMP Peso Time Deposit-BPI,1103001004.0
+181,A,CurrentAssets,A023110,Interest Accrued on STMP Peso Time Deposit-Metrobank,1103001003.0
+182,A,CurrentAssets,A023152,Interest Accrued on STMP Peso Time Deposit-PNB,1103001001.0
+183,A,CurrentAssets,A023194,Interest Accrued on STMP Peso Time Deposit-UBP,1103001002.0
+184,A,CurrentAssets,A023236,Interest Accrued on STMP Special Savings Deposits-BDO,1103006004.0
+185,A,CurrentAssets,A023278,Interest Accrued on STMP Special Savings Deposits-BPI,1103006005.0
+186,A,CurrentAssets,A023320,Interest Accrued on STMP Special Savings Deposits-CBC,1103006009.0
+187,A,CurrentAssets,A023362,Interest Accrued on STMP Special Savings Deposits-DBP,1103006008.0
+188,A,CurrentAssets,A023404,Interest Accrued on STMP Special Savings Deposits-LBP,1103006001.0
+189,A,CurrentAssets,A023446,Interest Accrued on STMP Special Savings Deposits-PNB,1103006006.0
+190,A,CurrentAssets,A023530,Interest Accrued on STMP Special Savings Deposits-UBP,1103006003.0
+191,A,CurrentAssets,A022309,Interest Accrued on Tokenized Treasury Bond,1103007010.0
+192,A,CurrentAssets,A022309,Interest Accrued on Tokenized Treasury Bond,1103007012.0
+193,A,CurrentAssets,A022309,Interest Accrued on Tokenized Treasury Bond,1103007001.0
+194,A,CurrentAssets,A022267,Interest Accrued on Treasury Bills,1103007010.0
+195,A,CurrentAssets,A022267,Interest Accrued on Treasury Bills,1103007012.0
+196,A,CurrentAssets,A022267,Interest Accrued on Treasury Bills,1103007001.0
+197,I,InterestIncome,I021144,Interest Income on Corporate Bonds,4003006011.0
+198,I,InterestIncome,I021144,Interest Income on Corporate Bonds,4003024003.0
+199,I,InterestIncome,I021144,Interest Income on Corporate Bonds,4003007002.0
+200,I,InterestIncome,I022355,Interest Income on Foreign Currency Denominated TD-USD BDO,4012010303.0
+201,I,InterestIncome,I022439,Interest Income on Foreign Currency Denominated TD-USD DBP,4012010306.0
+202,I,InterestIncome,I022481,Interest Income on Foreign Currency Denominated TD-USD LBP,4012010308.0
+203,I,InterestIncome,I022523,Interest Income on Foreign Currency Denominated TD-USD MBTC,4012010309.0
+204,I,InterestIncome,I022565,Interest Income on Foreign Currency Denominated TD-USD PNB,4012010304.0
+205,I,InterestIncome,I022607,Interest Income on Foreign Currency Denominated TD-USD UBP,4012010302.0
+206,I,InterestIncome,I020934,Interest Income on FXTN,4003006010.0
+207,I,InterestIncome,I020934,Interest Income on FXTN,4003024002.0
+208,I,InterestIncome,I020934,Interest Income on FXTN,4003006001.0
+209,I,InterestIncome,I021102,Interest Income on Government Bonds,4003006010.0
+210,I,InterestIncome,I021102,Interest Income on Government Bonds,4003024002.0
+211,I,InterestIncome,I021102,Interest Income on Government Bonds,4003006001.0
+212,I,InterestIncome,I022397,Interest Income on Peso Time Deposit-BDO,4012010205.0
+213,I,InterestIncome,I022649,Interest Income on Peso Time Deposit-BPI,4012010203.0
+214,I,InterestIncome,I022691,Interest Income on Peso Time Deposit-Metrobank,4012010202.0
+215,I,InterestIncome,I022733,Interest Income on Peso Time Deposit-PNB,4012010200.0
+216,I,InterestIncome,I022775,Interest Income on Peso Time Deposit-UBP,4012010201.0
+217,I,InterestIncome,I022817,Interest Income on Peso Time Deposit-UCPB,4012010211.0
+218,I,InterestIncome,I020976,Interest Income on RTB,4003006010.0
+219,I,InterestIncome,I020976,Interest Income on RTB,4003024002.0
+220,I,InterestIncome,I020976,Interest Income on RTB,4003006001.0
+221,I,InterestIncome,I021817,Interest Income on SSD - Dollar BDO,4012010303.0
+222,I,InterestIncome,I021775,Interest Income on SSD - Dollar DBP,4012010306.0
+223,I,InterestIncome,I021733,Interest Income on SSD - Dollar LBP,4012010308.0
+224,I,InterestIncome,I021691,Interest Income on SSD - Dollar MBTC,4012010309.0
+225,I,InterestIncome,I021859,Interest Income on SSD - Dollar PNB,4012010304.0
+226,I,InterestIncome,I021901,Interest Income on SSD - Dollar UBP,4012010302.0
+227,I,InterestIncome,I021481,Interest Income on SSD BDO - PHP,4012010405.0
+228,I,InterestIncome,I021523,Interest Income on SSD BPI - PHP,4012010406.0
+229,I,InterestIncome,I021607,Interest Income on SSD CBC - PHP,4012010408.0
+230,I,InterestIncome,I021313,Interest Income on SSD DBP - PHP,4012010400.0
+231,I,InterestIncome,I021355,Interest Income on SSD LBP - PHP,4012010401.0
+232,I,InterestIncome,I021649,Interest Income on SSD MBTC - PHP,4012010415.0
+233,I,InterestIncome,I021397,Interest Income on SSD PNB - PHP,4012010402.0
+234,I,InterestIncome,I021565,Interest Income on SSD SBC - PHP,4012010407.0
+235,I,InterestIncome,I022859,Interest Income on SSD SECB - PHP,4012010407.0
+236,I,InterestIncome,I021439,Interest Income on SSD UBP - PHP,4012010403.0
+237,I,InterestIncome,I022901,Interest Income on STMP FCD Time Deposit-USD BDO,4003002003.0
+238,I,InterestIncome,I022943,Interest Income on STMP FCD Time Deposit-USD PNB,4003002004.0
+239,I,InterestIncome,I022985,Interest Income on STMP FCD Time Deposit-USD UBP,4003002002.0
+240,I,InterestIncome,I023027,Interest Income on STMP Peso Time Deposit-BDO,4003003004.0
+241,I,InterestIncome,I023069,Interest Income on STMP Peso Time Deposit-BPI,4003001002.0
+242,I,InterestIncome,I023111,Interest Income on STMP Peso Time Deposit-Metrobank,4003001001.0
+243,I,InterestIncome,I023153,Interest Income on STMP Peso Time Deposit-PNB,4003001004.0
+244,I,InterestIncome,I023195,Interest Income on STMP Peso Time Deposit-UBP,4003001005.0
+245,I,InterestIncome,I023237,Interest Income on STMP Special Savings Deposits-BDO,4003003004.0
+246,I,InterestIncome,I023279,Interest Income on STMP Special Savings Deposits-BPI,4003003005.0
+247,I,InterestIncome,I023321,Interest Income on STMP Special Savings Deposits-CBC,4003003009.0
+248,I,InterestIncome,I023363,Interest Income on STMP Special Savings Deposits-DBP,4003003008.0
+249,I,InterestIncome,I023405,Interest Income on STMP Special Savings Deposits-LBP,4003003001.0
+250,I,InterestIncome,I023447,Interest Income on STMP Special Savings Deposits-PNB,4003003006.0
+251,I,InterestIncome,I023489,Interest Income on STMP Special Savings Deposits-SBC,4003003011.0
+252,I,InterestIncome,I023531,Interest Income on STMP Special Savings Deposits-UBP,4003003003.0
+253,I,InterestIncome,I022310,Interest Income on Tokenized Treasury Bond,4003006010.0
+254,I,InterestIncome,I022310,Interest Income on Tokenized Treasury Bond,4003024002.0
+255,I,InterestIncome,I022310,Interest Income on Tokenized Treasury Bond,4003006001.0
+256,A,InterestReceivables,A021146,Interest Receivable on Corporate Bonds,1103007011.0
+257,A,InterestReceivables,A021146,Interest Receivable on Corporate Bonds,1103007013.0
+258,A,InterestReceivables,A021146,Interest Receivable on Corporate Bonds,1103008002.0
+259,A,InterestReceivables,A022357,Interest Receivable on Foreign Currency Denominated TD-USD BDO,1103002004.0
+260,A,InterestReceivables,A022441,Interest Receivable on Foreign Currency Denominated TD-USD DBP,1103002007.0
+261,A,InterestReceivables,A022483,Interest Receivable on Foreign Currency Denominated TD-USD LBP,1103002009.0
+262,A,InterestReceivables,A022525,Interest Receivable on Foreign Currency Denominated TD-USD MBTC,1103002010.0
+263,A,InterestReceivables,A022567,Interest Receivable on Foreign Currency Denominated TD-USD PNB,1103002005.0
+264,A,InterestReceivables,A022609,Interest Receivable on Foreign Currency Denominated TD-USD UBP,1103002003.0
+265,A,InterestReceivables,A020936,Interest Receivable on FXTN,1103007010.0
+266,A,InterestReceivables,A020936,Interest Receivable on FXTN,1103007012.0
+267,A,InterestReceivables,A020936,Interest Receivable on FXTN,1103007001.0
+268,A,InterestReceivables,A021104,Interest Receivable on Government Bonds,1103007010.0
+269,A,InterestReceivables,A021104,Interest Receivable on Government Bonds,1103007012.0
+270,A,InterestReceivables,A021104,Interest Receivable on Government Bonds,1103007001.0
+271,A,InterestReceivables,A022399,Interest Receivable on Peso Time Deposit-BDO,1103001006.0
+272,A,InterestReceivables,A022651,Interest Receivable on Peso Time Deposit-BPI,1103001004.0
+273,A,InterestReceivables,A022693,Interest Receivable on Peso Time Deposit-Metrobank,1103001003.0
+274,A,InterestReceivables,A022735,Interest Receivable on Peso Time Deposit-PNB,1103001001.0
+275,A,InterestReceivables,A022777,Interest Receivable on Peso Time Deposit-UBP,1103001002.0
+276,A,InterestReceivables,A022819,Interest Receivable on Peso Time Deposit-UCPB,1103001011.0
+277,A,InterestReceivables,A020978,Interest Receivable on RTB,1103007010.0
+278,A,InterestReceivables,A020978,Interest Receivable on RTB,1103007012.0
+279,A,InterestReceivables,A020978,Interest Receivable on RTB,1103007001.0
+280,A,InterestReceivables,A021819,Interest Receivable on SSD - Dollar BDO,1103002004.0
+281,A,InterestReceivables,A021777,Interest Receivable on SSD - Dollar DBP,1103002007.0
+282,A,InterestReceivables,A021735,Interest Receivable on SSD - Dollar LBP,1103002009.0
+283,A,InterestReceivables,A021693,Interest Receivable on SSD - Dollar MBTC,1103002010.0
+284,A,InterestReceivables,A021861,Interest Receivable on SSD - Dollar PNB,1103002005.0
+285,A,InterestReceivables,A021903,Interest Receivable on SSD - Dollar UBP,1103002003.0
+286,A,InterestReceivables,A021483,Interest Receivable on SSD BDO - PHP,1103003006.0
+287,A,InterestReceivables,A021525,Interest Receivable on SSD BPI - PHP,1103003007.0
+288,A,InterestReceivables,A021609,Interest Receivable on SSD CBC - PHP,1103003010.0
+289,A,InterestReceivables,A021315,Interest Receivable on SSD DBP - PHP,1103003001.0
+290,A,InterestReceivables,A021357,Interest Receivable on SSD LBP - PHP,1103003002.0
+291,A,InterestReceivables,A021651,Interest Receivable on SSD MBTC - PHP,1103003018.0
+292,A,InterestReceivables,A021399,Interest Receivable on SSD PNB - PHP,1103003003.0
+293,A,InterestReceivables,A021567,Interest Receivable on SSD SBC - PHP,1103003009.0
+294,A,InterestReceivables,A021441,Interest Receivable on SSD UBP - PHP,1103003004.0
+295,A,InterestReceivables,A022903,Interest Receivable on STMP FCD Time Deposit-USD BDO,1103005003.0
+296,A,InterestReceivables,A022945,Interest Receivable on STMP FCD Time Deposit-USD PNB,1103005004.0
+297,A,InterestReceivables,A022987,Interest Receivable on STMP FCD Time Deposit-USD UBP,1103005002.0
+298,A,InterestReceivables,A023029,Interest Receivable on STMP Peso Time Deposit-BDO,1103004006.0
+299,A,InterestReceivables,A023071,Interest Receivable on STMP Peso Time Deposit-BPI,1103004002.0
+300,A,InterestReceivables,A023113,Interest Receivable on STMP Peso Time Deposit-Metrobank,1103004001.0
+301,A,InterestReceivables,A023155,Interest Receivable on STMP Peso Time Deposit-PNB,1103004004.0
+302,A,InterestReceivables,A023197,Interest Receivable on STMP Peso Time Deposit-UBP,1103004005.0
+303,A,InterestReceivables,A023239,Interest Receivable on STMP Special Savings Deposits-BDO,1103006004.0
+304,A,InterestReceivables,A023281,Interest Receivable on STMP Special Savings Deposits-BPI,1103006005.0
+305,A,InterestReceivables,A023323,Interest Receivable on STMP Special Savings Deposits-CBC,1103006009.0
+306,A,InterestReceivables,A023365,Interest Receivable on STMP Special Savings Deposits-DBP,1103006008.0
+307,A,InterestReceivables,A023407,Interest Receivable on STMP Special Savings Deposits-LBP,1103006001.0
+308,A,InterestReceivables,A023449,Interest Receivable on STMP Special Savings Deposits-PNB,1103006006.0
+309,A,InterestReceivables,A023533,Interest Receivable on STMP Special Savings Deposits-UBP,1103006003.0
+310,A,InterestReceivables,A022312,Interest Receivable on Tokenized Treasury Bond,1103007010.0
+311,A,InterestReceivables,A022312,Interest Receivable on Tokenized Treasury Bond,1103007012.0
+312,A,InterestReceivables,A022312,Interest Receivable on Tokenized Treasury Bond,1103007001.0
+313,E,ExpenseLosses,E023658,Inv Exp-Financial Assets at FVTPL-Equities,4010005000.0
+314,A,Investments,A021217,Investments in Commercial Paper AFS,1201002012.0
+315,A,Investments,A021241,Investments in Commercial Paper HTM,1201004001.0
+316,A,Investments,A022211,Investments in Common Shares - OCI AFS,1201001000.0
+317,A,Investments,A020753,Investments in Common Shares AFS,1102006000.0
+318,A,Investments,A020768,Investments in Common Shares HFT,1102006000.0
+319,A,Investments,A021133,Investments in Corporate Bonds AFS,1201002007.0
+320,A,Investments,A021156,Investments in Corporate Bonds HFT,1102006030.0
+321,A,Investments,A021157,Investments in Corporate Bonds HTM,1201004002.0
+322,A,Investments,A021175,Investments in Corporate Notes AFS,1201002012.0
+323,A,Investments,A021199,Investments in Corporate Notes HTM,1201004001.0
+324,A,Investments,A022344,Investments in Foreign Currency Denominated TD-USD BDO AFS,1101007004.0
+325,A,Investments,A022367,Investments in Foreign Currency Denominated TD-USD BDO HFT,1101007004.0
+326,A,Investments,A022368,Investments in Foreign Currency Denominated TD-USD BDO HTM,1101007004.0
+327,A,Investments,A022428,Investments in Foreign Currency Denominated TD-USD DBP AFS,1101007008.0
+328,A,Investments,A022451,Investments in Foreign Currency Denominated TD-USD DBP HFT,1101007008.0
+329,A,Investments,A022452,Investments in Foreign Currency Denominated TD-USD DBP HTM,1101007008.0
+330,A,Investments,A022470,Investments in Foreign Currency Denominated TD-USD LBP AFS,1101007010.0
+331,A,Investments,A022493,Investments in Foreign Currency Denominated TD-USD LBP HFT,1101007010.0
+332,A,Investments,A022494,Investments in Foreign Currency Denominated TD-USD LBP HTM,1101007010.0
+333,A,Investments,A022512,Investments in Foreign Currency Denominated TD-USD MBTC AFS,1101007011.0
+334,A,Investments,A022535,Investments in Foreign Currency Denominated TD-USD MBTC HFT,1101007011.0
+335,A,Investments,A022536,Investments in Foreign Currency Denominated TD-USD MBTC HTM,1101007011.0
+336,A,Investments,A022554,Investments in Foreign Currency Denominated TD-USD PNB AFS,1101007005.0
+337,A,Investments,A022577,Investments in Foreign Currency Denominated TD-USD PNB HFT,1101007005.0
+338,A,Investments,A022578,Investments in Foreign Currency Denominated TD-USD PNB HTM,1101007005.0
+339,A,Investments,A022596,Investments in Foreign Currency Denominated TD-USD UBP AFS,1101007007.0
+340,A,Investments,A022619,Investments in Foreign Currency Denominated TD-USD UBP HFT,1101007007.0
+341,A,Investments,A022620,Investments in Foreign Currency Denominated TD-USD UBP HTM,1101007007.0
+342,A,Investments,A020923,Investments in FXTN AFS,1201002006.0
+343,A,Investments,A020946,Investments in FXTN HFT,1102006020.0
+344,A,Investments,A020947,Investments in FXTN HTM,1201003001.0
+345,A,Investments,A021091,Investments in Government Bonds AFS,1201002006.0
+346,A,Investments,A021114,Investments in Government Bonds HFT,1102006020.0
+347,A,Investments,A021115,Investments in Government Bonds HTM,1201003001.0
+348,A,Investments,A021073,Investments in Government Notes HTM,1201003004.0
+349,A,Investments,A022386,Investments in Peso Time Deposit-BDO AFS,1101006006.0
+350,A,Investments,A022409,Investments in Peso Time Deposit-BDO HFT,1101006006.0
+351,A,Investments,A022410,Investments in Peso Time Deposit-BDO HTM,1101006006.0
+352,A,Investments,A022638,Investments in Peso Time Deposit-BPI AFS,1101006004.0
+353,A,Investments,A022661,Investments in Peso Time Deposit-BPI HFT,1101006004.0
+354,A,Investments,A022662,Investments in Peso Time Deposit-BPI HTM,1101006004.0
+355,A,Investments,A022680,Investments in Peso Time Deposit-Metrobank AFS,1101006003.0
+356,A,Investments,A022703,Investments in Peso Time Deposit-Metrobank HFT,1101006003.0
+357,A,Investments,A022704,Investments in Peso Time Deposit-Metrobank HTM,1101006003.0
+358,A,Investments,A022722,Investments in Peso Time Deposit-PNB AFS,1101006001.0
+359,A,Investments,A022745,Investments in Peso Time Deposit-PNB HFT,1101006001.0
+360,A,Investments,A022746,Investments in Peso Time Deposit-PNB HTM,1101006001.0
+361,A,Investments,A022764,Investments in Peso Time Deposit-UBP AFS,1101006002.0
+362,A,Investments,A022787,Investments in Peso Time Deposit-UBP HFT,1101006002.0
+363,A,Investments,A022788,Investments in Peso Time Deposit-UBP HTM,1101006002.0
+364,A,Investments,A022806,Investments in Peso Time Deposit-UCPB AFS,1101006011.0
+365,A,Investments,A022829,Investments in Peso Time Deposit-UCPB HFT,1101006011.0
+366,A,Investments,A022830,Investments in Peso Time Deposit-UCPB HTM,1101006011.0
+367,A,Investments,A020903,Investments in Preferred Shares HFT,1102006000.0
+368,A,Investments,A022234,Investments in Preferred Shares	 - OCI AFS,1201001000.0
+369,A,Investments,A021259,Investments in Promissory Note AFS,1201002012.0
+370,A,Investments,A021283,Investments in Promissory Note HTM,1201004001.0
+371,A,Investments,A021031,Investments in RDB HTM,1201003003.0
+372,A,Investments,A020965,Investments in RTB AFS,1201002006.0
+373,A,Investments,A020988,Investments in RTB HFT,1102006020.0
+374,A,Investments,A020989,Investments in RTB HTM,1201003001.0
+375,A,Investments,A021806,Investments in SSD - Dollar BDO AFS,1101007004.0
+376,A,Investments,A021829,Investments in SSD - Dollar BDO HFT,1101007004.0
+377,A,Investments,A021830,Investments in SSD - Dollar BDO HTM,1101007004.0
+378,A,Investments,A021764,Investments in SSD - Dollar DBP AFS,1101007008.0
+379,A,Investments,A021787,Investments in SSD - Dollar DBP HFT,1101007008.0
+380,A,Investments,A021788,Investments in SSD - Dollar DBP HTM,1101007008.0
+381,A,Investments,A021722,Investments in SSD - Dollar LBP AFS,1101007010.0
+382,A,Investments,A021745,Investments in SSD - Dollar LBP HFT,1101007010.0
+383,A,Investments,A021746,Investments in SSD - Dollar LBP HTM,1101007010.0
+384,A,Investments,A021680,Investments in SSD - Dollar MBTC AFS,1101007011.0
+385,A,Investments,A021703,Investments in SSD - Dollar MBTC HFT,1101007011.0
+386,A,Investments,A021704,Investments in SSD - Dollar MBTC HTM,1101007011.0
+387,A,Investments,A021848,Investments in SSD - Dollar PNB AFS,1101007005.0
+388,A,Investments,A021871,Investments in SSD - Dollar PNB HFT,1101007005.0
+389,A,Investments,A021872,Investments in SSD - Dollar PNB HTM,1101007005.0
+390,A,Investments,A021890,Investments in SSD - Dollar UBP AFS,1101007007.0
+391,A,Investments,A021913,Investments in SSD - Dollar UBP HFT,1101007007.0
+392,A,Investments,A021914,Investments in SSD - Dollar UBP HTM,1101007007.0
+393,A,Investments,A021470,Investments in SSD BDO - PHP AFS,1101008006.0
+394,A,Investments,A021493,Investments in SSD BDO - PHP HFT,1101008006.0
+395,A,Investments,A021494,Investments in SSD BDO - PHP HTM,1101008006.0
+396,A,Investments,A021512,Investments in SSD BPI - PHP AFS,1101008007.0
+397,A,Investments,A021535,Investments in SSD BPI - PHP HFT,1101008007.0
+398,A,Investments,A021536,Investments in SSD BPI - PHP HTM,1101008007.0
+399,A,Investments,A021596,Investments in SSD CBC - PHP AFS,1101008010.0
+400,A,Investments,A021619,Investments in SSD CBC - PHP HFT,1101008010.0
+401,A,Investments,A021620,Investments in SSD CBC - PHP HTM,1101008010.0
+402,A,Investments,A021302,Investments in SSD DBP - PHP AFS,1101008001.0
+403,A,Investments,A021325,Investments in SSD DBP - PHP HFT,1101008001.0
+404,A,Investments,A021326,Investments in SSD DBP - PHP HTM,1101008001.0
+405,A,Investments,A021344,Investments in SSD LBP - PHP AFS,1101008002.0
+406,A,Investments,A021367,Investments in SSD LBP - PHP HFT,1101008002.0
+407,A,Investments,A021368,Investments in SSD LBP - PHP HTM,1101008002.0
+408,A,Investments,A021638,Investments in SSD MBTC - PHP AFS,1101008018.0
+409,A,Investments,A021661,Investments in SSD MBTC - PHP HFT,1101008018.0
+410,A,Investments,A021662,Investments in SSD MBTC - PHP HTM,1101008018.0
+411,A,Investments,A021386,Investments in SSD PNB - PHP AFS,1101008003.0
+412,A,Investments,A021409,Investments in SSD PNB - PHP HFT,1101008003.0
+413,A,Investments,A021410,Investments in SSD PNB - PHP HTM,1101008003.0
+414,A,Investments,A021554,Investments in SSD SBC - PHP AFS,1101008009.0
+415,A,Investments,A021577,Investments in SSD SBC - PHP HFT,1101008009.0
+416,A,Investments,A021578,Investments in SSD SBC - PHP HTM,1101008009.0
+417,A,Investments,A022848,Investments in SSD SECB - PHP AFS,1101008009.0
+418,A,Investments,A022871,Investments in SSD SECB - PHP HFT,1101008009.0
+419,A,Investments,A022872,Investments in SSD SECB - PHP HTM,1101008009.0
+420,A,Investments,A021428,Investments in SSD UBP - PHP AFS,1101008004.0
+421,A,Investments,A021451,Investments in SSD UBP - PHP HFT,1101008004.0
+422,A,Investments,A021452,Investments in SSD UBP - PHP HTM,1101008004.0
+423,A,Investments,A022890,Investments in STMP FCD Time Deposit-USD BDO AFS,1101007004.0
+424,A,Investments,A022913,Investments in STMP FCD Time Deposit-USD BDO HFT,1101007004.0
+425,A,Investments,A022914,Investments in STMP FCD Time Deposit-USD BDO HTM,1101007004.0
+426,A,Investments,A022932,Investments in STMP FCD Time Deposit-USD PNB AFS,1101007005.0
+427,A,Investments,A022955,Investments in STMP FCD Time Deposit-USD PNB HFT,1101007005.0
+428,A,Investments,A022956,Investments in STMP FCD Time Deposit-USD PNB HTM,1101007005.0
+429,A,Investments,A022974,Investments in STMP FCD Time Deposit-USD UBP AFS,1101007007.0
+430,A,Investments,A022997,Investments in STMP FCD Time Deposit-USD UBP HFT,1101007007.0
+431,A,Investments,A022998,Investments in STMP FCD Time Deposit-USD UBP HTM,1101007007.0
+432,A,Investments,A023016,Investments in STMP Peso Time Deposit-BDO AFS,1102001006.0
+433,A,Investments,A023039,Investments in STMP Peso Time Deposit-BDO HFT,1102001006.0
+434,A,Investments,A023040,Investments in STMP Peso Time Deposit-BDO HTM,1102001006.0
+435,A,Investments,A023058,Investments in STMP Peso Time Deposit-BPI AFS,1102001002.0
+436,A,Investments,A023081,Investments in STMP Peso Time Deposit-BPI HFT,1102001002.0
+437,A,Investments,A023082,Investments in STMP Peso Time Deposit-BPI HTM,1102001002.0
+438,A,Investments,A023100,Investments in STMP Peso Time Deposit-Metrobank AFS,1102001001.0
+439,A,Investments,A023123,Investments in STMP Peso Time Deposit-Metrobank HFT,1102001001.0
+440,A,Investments,A023124,Investments in STMP Peso Time Deposit-Metrobank HTM,1102001001.0
+441,A,Investments,A023142,Investments in STMP Peso Time Deposit-PNB AFS,1102001004.0
+442,A,Investments,A023165,Investments in STMP Peso Time Deposit-PNB HFT,1102001004.0
+443,A,Investments,A023166,Investments in STMP Peso Time Deposit-PNB HTM,1102001004.0
+444,A,Investments,A023184,Investments in STMP Peso Time Deposit-UBP AFS,1102001005.0
+445,A,Investments,A023207,Investments in STMP Peso Time Deposit-UBP HFT,1102001005.0
+446,A,Investments,A023208,Investments in STMP Peso Time Deposit-UBP HTM,1102001005.0
+447,A,Investments,A023310,Investments in STMP Special Savings Deposits-CBC AFS,1102003009.0
+448,A,Investments,A023333,Investments in STMP Special Savings Deposits-CBC HFT,1102003009.0
+449,A,Investments,A023334,Investments in STMP Special Savings Deposits-CBC HTM,1102003009.0
+450,A,Investments,A023352,Investments in STMP Special Savings Deposits-DBP AFS,1102003008.0
+451,A,Investments,A023375,Investments in STMP Special Savings Deposits-DBP HFT,1102003008.0
+452,A,Investments,A023376,Investments in STMP Special Savings Deposits-DBP HTM,1102003008.0
+453,A,Investments,A022299,Investments in Tokenized Treasury Bond AFS,1201002006.0
+454,A,Investments,A022322,Investments in Tokenized Treasury Bond HFT,1102006020.0
+455,A,Investments,A022323,Investments in Tokenized Treasury Bond HTM,1201003001.0
+456,A,Investments,A022281,Investments in Treasury Bills HTM,1102005000.0
+457,A,SundryDebtors,A020724,"J.P. MORGAN SECURITIES PHILIPPINES, INC. - BK40",2101001003.0
+458,A,SundryDebtors,A020724,"J.P. MORGAN SECURITIES PHILIPPINES, INC. - BK40",1103024002.0
+459,A,SundryDebtors,A020724,"J.P. MORGAN SECURITIES PHILIPPINES, INC. - BK40",2101001003.0
+460,A,SundryDebtors,A020724,"J.P. MORGAN SECURITIES PHILIPPINES, INC. - BK40",1103024001.0
+461,A,SundryDebtors,A020876,LAND BANK OF THE PHILIPPINES - CP13,2101001003.0
+462,A,SundryDebtors,A020876,LAND BANK OF THE PHILIPPINES - CP13,1103024002.0
+463,A,SundryDebtors,A020876,LAND BANK OF THE PHILIPPINES - CP13,2101001003.0
+464,A,SundryDebtors,A020876,LAND BANK OF THE PHILIPPINES - CP13,1103024001.0
+465,A,SundryDebtors,A020727,"LAND BANK SECURITIES, INC. - BK41",2101001003.0
+466,A,SundryDebtors,A020727,"LAND BANK SECURITIES, INC. - BK41",1103024002.0
+467,A,SundryDebtors,A020727,"LAND BANK SECURITIES, INC. - BK41",2101001003.0
+468,A,SundryDebtors,A020727,"LAND BANK SECURITIES, INC. - BK41",1103024001.0
+469,A,Bank,A020776,LBP EC - Checking Account - 0572105032,1101020153.0
+470,A,Bank,A020781,LBP FLEXI - Checking Account - 0572105318,1101021543.0
+471,A,Bank,A020748,LBP MAIN - Checking Account - 0572100324,1101013243.0
+472,A,Bank,A022026,LBP MAIN - Savings Account - 0574000548,1101015483.0
+473,A,Bank,A020791,LBP MIA - Checking Account - 0572105334,1101021533.0
+474,A,Bank,A020801,LBP MPF - Checking Account - 0572106470,1101010333.0
+475,A,Bank,A020786,LBP PESO - Checking Account - 0572105326,1101021523.0
+476,A,SundryDebtors,A020728,"MACQUARIE CAPITAL SECURITIES (PHILIPPINES), INC. - BK42",2101001003.0
+477,A,SundryDebtors,A020728,"MACQUARIE CAPITAL SECURITIES (PHILIPPINES), INC. - BK42",1103024002.0
+478,A,SundryDebtors,A020728,"MACQUARIE CAPITAL SECURITIES (PHILIPPINES), INC. - BK42",2101001003.0
+479,A,SundryDebtors,A020728,"MACQUARIE CAPITAL SECURITIES (PHILIPPINES), INC. - BK42",1103024001.0
+480,A,SundryDebtors,A023878,Mandarin Securities Corporation - BK55,2101001003.0
+481,A,SundryDebtors,A023878,Mandarin Securities Corporation - BK55,1103024002.0
+482,A,SundryDebtors,A023878,Mandarin Securities Corporation - BK55,2101001003.0
+483,A,SundryDebtors,A023878,Mandarin Securities Corporation - BK55,1103024001.0
+484,A,CurrentAssets,A021145,Maturity Receivable on Corporate Bonds,1102006030.0
+485,A,CurrentAssets,A021145,Maturity Receivable on Corporate Bonds,1201002007.0
+486,A,CurrentAssets,A021145,Maturity Receivable on Corporate Bonds,1201004002.0
+487,A,CurrentAssets,A022356,Maturity Receivable on Foreign Currency Denominated TD-USD BDO,1101007004.0
+488,A,CurrentAssets,A022440,Maturity Receivable on Foreign Currency Denominated TD-USD DBP,1101007008.0
+489,A,CurrentAssets,A022482,Maturity Receivable on Foreign Currency Denominated TD-USD LBP,1101007010.0
+490,A,CurrentAssets,A022524,Maturity Receivable on Foreign Currency Denominated TD-USD MBTC,1101007011.0
+491,A,CurrentAssets,A022566,Maturity Receivable on Foreign Currency Denominated TD-USD PNB,1101007005.0
+492,A,CurrentAssets,A022608,Maturity Receivable on Foreign Currency Denominated TD-USD UBP,1101007007.0
+493,A,CurrentAssets,A020935,Maturity Receivable on FXTN,1102006020.0
+494,A,CurrentAssets,A020935,Maturity Receivable on FXTN,1201002006.0
+495,A,CurrentAssets,A020935,Maturity Receivable on FXTN,1201003001.0
+496,A,CurrentAssets,A021103,Maturity Receivable on Government Bonds,1102006020.0
+497,A,CurrentAssets,A021103,Maturity Receivable on Government Bonds,1201002006.0
+498,A,CurrentAssets,A021103,Maturity Receivable on Government Bonds,1201003001.0
+499,A,CurrentAssets,A022398,Maturity Receivable on Peso Time Deposit-BDO,1101006006.0
+500,A,CurrentAssets,A022650,Maturity Receivable on Peso Time Deposit-BPI,1101006004.0
+501,A,CurrentAssets,A022692,Maturity Receivable on Peso Time Deposit-Metrobank,1101006003.0
+502,A,CurrentAssets,A022734,Maturity Receivable on Peso Time Deposit-PNB,1101006001.0
+503,A,CurrentAssets,A022776,Maturity Receivable on Peso Time Deposit-UBP,1101006002.0
+504,A,CurrentAssets,A022818,Maturity Receivable on Peso Time Deposit-UCPB,1101006011.0
+505,A,CurrentAssets,A020977,Maturity Receivable on RTB,1102006020.0
+506,A,CurrentAssets,A020977,Maturity Receivable on RTB,1201002006.0
+507,A,CurrentAssets,A020977,Maturity Receivable on RTB,1201003001.0
+508,A,CurrentAssets,A021818,Maturity Receivable on SSD - Dollar BDO,1101007004.0
+509,A,CurrentAssets,A021776,Maturity Receivable on SSD - Dollar DBP,1101007008.0
+510,A,CurrentAssets,A021734,Maturity Receivable on SSD - Dollar LBP,1101007010.0
+511,A,CurrentAssets,A021692,Maturity Receivable on SSD - Dollar MBTC,1101007011.0
+512,A,CurrentAssets,A021860,Maturity Receivable on SSD - Dollar PNB,1101007005.0
+513,A,CurrentAssets,A022043,Maturity Receivable on SSD - Dollar SECB,1101007013.0
+514,A,CurrentAssets,A021902,Maturity Receivable on SSD - Dollar UBP,1101007007.0
+515,A,CurrentAssets,A021482,Maturity Receivable on SSD BDO - PHP,1101008006.0
+516,A,CurrentAssets,A021524,Maturity Receivable on SSD BPI - PHP,1101008007.0
+517,A,CurrentAssets,A021608,Maturity Receivable on SSD CBC - PHP,1101008010.0
+518,A,CurrentAssets,A021314,Maturity Receivable on SSD DBP - PHP,1101008001.0
+519,A,CurrentAssets,A021356,Maturity Receivable on SSD LBP - PHP,1101008002.0
+520,A,CurrentAssets,A021650,Maturity Receivable on SSD MBTC - PHP,1101008018.0
+521,A,CurrentAssets,A021398,Maturity Receivable on SSD PNB - PHP,1101008003.0
+522,A,CurrentAssets,A021566,Maturity Receivable on SSD SBC - PHP,1101007013.0
+523,A,CurrentAssets,A022860,Maturity Receivable on SSD SECB - PHP,1101008009.0
+524,A,CurrentAssets,A021440,Maturity Receivable on SSD UBP - PHP,1101008004.0
+525,A,CurrentAssets,A022902,Maturity Receivable on STMP FCD Time Deposit-USD BDO,1101007004.0
+526,A,CurrentAssets,A022944,Maturity Receivable on STMP FCD Time Deposit-USD PNB,1101007005.0
+527,A,CurrentAssets,A022986,Maturity Receivable on STMP FCD Time Deposit-USD UBP,1101007007.0
+528,A,CurrentAssets,A023028,Maturity Receivable on STMP Peso Time Deposit-BDO,1102001006.0
+529,A,CurrentAssets,A023070,Maturity Receivable on STMP Peso Time Deposit-BPI,1102001002.0
+530,A,CurrentAssets,A023112,Maturity Receivable on STMP Peso Time Deposit-Metrobank,1102001001.0
+531,A,CurrentAssets,A023154,Maturity Receivable on STMP Peso Time Deposit-PNB,1102001004.0
+532,A,CurrentAssets,A023196,Maturity Receivable on STMP Peso Time Deposit-UBP,1102001005.0
+533,A,CurrentAssets,A023238,Maturity Receivable on STMP Special Savings Deposits-BDO,1101008006.0
+534,A,CurrentAssets,A023280,Maturity Receivable on STMP Special Savings Deposits-BPI,1101008007.0
+535,A,CurrentAssets,A023322,Maturity Receivable on STMP Special Savings Deposits-CBC,1101008010.0
+536,A,CurrentAssets,A023364,Maturity Receivable on STMP Special Savings Deposits-DBP,1101008001.0
+537,A,CurrentAssets,A023406,Maturity Receivable on STMP Special Savings Deposits-LBP,1101008002.0
+538,A,CurrentAssets,A023448,Maturity Receivable on STMP Special Savings Deposits-PNB,1101008003.0
+539,A,CurrentAssets,A023490,Maturity Receivable on STMP Special Savings Deposits-SBC,1101008009.0
+540,A,CurrentAssets,A023532,Maturity Receivable on STMP Special Savings Deposits-UBP,1101008004.0
+541,A,CurrentAssets,A022311,Maturity Receivable on Tokenized Treasury Bond,1102006020.0
+542,A,CurrentAssets,A022311,Maturity Receivable on Tokenized Treasury Bond,1201002006.0
+543,A,CurrentAssets,A022311,Maturity Receivable on Tokenized Treasury Bond,1201003001.0
+544,A,SundryDebtors,A020877,"MAYBANK PHILIPPINES, INCORPORATED - CP14",2101001003.0
+545,A,SundryDebtors,A020877,"MAYBANK PHILIPPINES, INCORPORATED - CP14",1103024002.0
+546,A,SundryDebtors,A020877,"MAYBANK PHILIPPINES, INCORPORATED - CP14",2101001003.0
+547,A,SundryDebtors,A020877,"MAYBANK PHILIPPINES, INCORPORATED - CP14",1103024001.0
+548,A,SundryDebtors,A020731,"MAYBANK SECURITIES, INC. - BK43",2101001003.0
+549,A,SundryDebtors,A020731,"MAYBANK SECURITIES, INC. - BK43",1103024002.0
+550,A,SundryDebtors,A020731,"MAYBANK SECURITIES, INC. - BK43",2101001003.0
+551,A,SundryDebtors,A020731,"MAYBANK SECURITIES, INC. - BK43",1103024001.0
+552,A,Bank,A020856,MBTC IBCA - Checking Account - 2327232503951,1101019513.0
+553,A,SundryDebtors,A020878,METROPOLITAN BANK AND TRUST COMPANY - CP15,2101001003.0
+554,A,SundryDebtors,A020878,METROPOLITAN BANK AND TRUST COMPANY - CP15,1103024002.0
+555,A,SundryDebtors,A020878,METROPOLITAN BANK AND TRUST COMPANY - CP15,2101001003.0
+556,A,SundryDebtors,A020878,METROPOLITAN BANK AND TRUST COMPANY - CP15,1103024001.0
+557,A,Bank,A022150,MIA SSD - Savings Account - 0405018831531,1101010583.0
+558,A,Bank,A022155,MIA SSD - Savings Account - 0572100324,1101013243.0
+559,A,SundryDebtors,A020879,MIB CAPITAL CORPORATION - CP16,2101001003.0
+560,A,SundryDebtors,A020879,MIB CAPITAL CORPORATION - CP16,1103024002.0
+561,A,SundryDebtors,A020879,MIB CAPITAL CORPORATION - CP16,2101001003.0
+562,A,SundryDebtors,A020879,MIB CAPITAL CORPORATION - CP16,1103024001.0
+563,A,Bank,A022170,MPF SSD - Savings Account - 0405018831531,1101010583.0
+564,A,Bank,A022175,MPF SSD - Savings Account - 0572100324,1101013243.0
+565,A,Bank,A022140,NVPF SSD - Savings Account - 0405018831531,1101010583.0
+566,A,Bank,A022145,NVPF SSD - Savings Account - 0572100324,1101013243.0
+567,E,OtherCharges,E021222,Other Charges in Commercial Paper,4010005100.0
+568,E,OtherCharges,E021138,Other Charges in Corporate Bonds,4010005200.0
+569,E,OtherCharges,E021180,Other Charges in Corporate Notes,4010005100.0
+570,E,OtherCharges,E021054,Other Charges in Government Notes,4010005300.0
+571,E,OtherCharges,E021264,Other Charges in Promissory Note,4010005100.0
+572,A,SundryDebtors,A020732,PAPA SECURITIES CORPORATION - BK44,2101001003.0
+573,A,SundryDebtors,A020732,PAPA SECURITIES CORPORATION - BK44,1103024002.0
+574,A,SundryDebtors,A020732,PAPA SECURITIES CORPORATION - BK44,2101001003.0
+575,A,SundryDebtors,A020732,PAPA SECURITIES CORPORATION - BK44,1103024001.0
+576,A,Bank,A022120,PESO SSD - Savings Account - 0405018831531,1101010583.0
+577,A,Bank,A022125,PESO SSD - Savings Account - 0572100324,1101013243.0
+578,A,Bank,A022115,PESO SSD - Savings Account - 2034798713,1101017133.0
+579,A,SundryDebtors,A020880,"PHILIPPINE COMMERCIAL CAPITAL, INC. - CP17",2101001003.0
+580,A,SundryDebtors,A020880,"PHILIPPINE COMMERCIAL CAPITAL, INC. - CP17",1103024002.0
+581,A,SundryDebtors,A020880,"PHILIPPINE COMMERCIAL CAPITAL, INC. - CP17",2101001003.0
+582,A,SundryDebtors,A020880,"PHILIPPINE COMMERCIAL CAPITAL, INC. - CP17",1103024001.0
+583,A,SundryDebtors,A020735,"PHILIPPINE EQUITY PARTNERS, INC. - BK45",2101001003.0
+584,A,SundryDebtors,A020735,"PHILIPPINE EQUITY PARTNERS, INC. - BK45",1103024002.0
+585,A,SundryDebtors,A020735,"PHILIPPINE EQUITY PARTNERS, INC. - BK45",2101001003.0
+586,A,SundryDebtors,A020735,"PHILIPPINE EQUITY PARTNERS, INC. - BK45",1103024001.0
+587,A,SundryDebtors,A020881,PHILIPPINE NATIONAL BANK - CP18,2101001003.0
+588,A,SundryDebtors,A020881,PHILIPPINE NATIONAL BANK - CP18,1103024002.0
+589,A,SundryDebtors,A020881,PHILIPPINE NATIONAL BANK - CP18,2101001003.0
+590,A,SundryDebtors,A020881,PHILIPPINE NATIONAL BANK - CP18,1103024001.0
+591,A,SundryDebtors,A020882,PNB CAPITAL & INVESTMENT CORPORATION - CP19,2101001003.0
+592,A,SundryDebtors,A020882,PNB CAPITAL & INVESTMENT CORPORATION - CP19,1103024002.0
+593,A,SundryDebtors,A020882,PNB CAPITAL & INVESTMENT CORPORATION - CP19,2101001003.0
+594,A,SundryDebtors,A020882,PNB CAPITAL & INVESTMENT CORPORATION - CP19,1103024001.0
+595,A,SundryDebtors,A020739,"RCBC SECURITIES, INC. - BK47",2101001003.0
+596,A,SundryDebtors,A020739,"RCBC SECURITIES, INC. - BK47",1103024002.0
+597,A,SundryDebtors,A020739,"RCBC SECURITIES, INC. - BK47",2101001003.0
+598,A,SundryDebtors,A020739,"RCBC SECURITIES, INC. - BK47",1103024001.0
+599,A,CurrentAssets,A023662,Receivable-Sale-FAFVTOCI,1103024002.0
+600,A,CurrentAssets,A023663,Receivable-Sale-FAFVTPL,1103024001.0
+601,I,IncomeGains,I023676,Recovery of Imp Loss - CNB-Cbonds,4012025250.0
+602,I,IncomeGains,I023677,Recovery of Imp Loss - IR-CNB-Cbonds,4012025070.0
+603,I,IncomeGains,I023673,Recovery of Imp Loss CNB-CNotes,4012025021.0
+604,I,IncomeGains,I023678,Recovery of Imp Loss IR-CNB-CNotes,4012025020.0
+605,A,SundryDebtors,A023880,REGINA CAPITAL DEVELOPMENT CORPORATION - BK56,2101001003.0
+606,A,SundryDebtors,A023880,REGINA CAPITAL DEVELOPMENT CORPORATION - BK56,1103024002.0
+607,A,SundryDebtors,A023880,REGINA CAPITAL DEVELOPMENT CORPORATION - BK56,2101001003.0
+608,A,SundryDebtors,A023880,REGINA CAPITAL DEVELOPMENT CORPORATION - BK56,1103024001.0
+609,A,SundryDebtors,A020736,"REGIS PARTNERS, INC. - BK46",2101001003.0
+610,A,SundryDebtors,A020736,"REGIS PARTNERS, INC. - BK46",1103024002.0
+611,A,SundryDebtors,A020736,"REGIS PARTNERS, INC. - BK46",2101001003.0
+612,A,SundryDebtors,A020736,"REGIS PARTNERS, INC. - BK46",1103024001.0
+613,A,ASSREV,A021233,Revaluation in Commercial Paper AFS,1201002012.0
+614,A,ASSREV,A022219,Revaluation in Common Shares - OCI AFS,1201001000.0
+615,A,ASSREV,A020762,Revaluation in Common Shares HFT,1102006000.0
+616,A,ASSREV,A021149,Revaluation in Corporate Bonds AFS,1201002007.0
+617,A,ASSREV,A021150,Revaluation in Corporate Bonds HFT,1102006030.0
+618,A,ASSREV,A021191,Revaluation in Corporate Notes AFS,1201002012.0
+619,A,ASSREV,A023711,Revaluation in FX Gain/Loss in Commercial Paper HTM,1201004006.0
+620,A,ASSREV,A023708,Revaluation in FX Gain/Loss in Corporate Notes HTM,1201004006.0
+621,A,ASSREV,A023784,Revaluation in FX Gain/Loss in Foreign Currency Denominated TD-USD BDO AFS,1101007004.0
+622,A,ASSREV,A023785,Revaluation in FX Gain/Loss in Foreign Currency Denominated TD-USD BDO HFT,1101007004.0
+623,A,ASSREV,A023783,Revaluation in FX Gain/Loss in Foreign Currency Denominated TD-USD BDO HTM,1101007004.0
+624,A,ASSREV,A023790,Revaluation in FX Gain/Loss in Foreign Currency Denominated TD-USD DBP AFS,1101007008.0
+625,A,ASSREV,A023791,Revaluation in FX Gain/Loss in Foreign Currency Denominated TD-USD DBP HFT,1101007008.0
+626,A,ASSREV,A023789,Revaluation in FX Gain/Loss in Foreign Currency Denominated TD-USD DBP HTM,1101007008.0
+627,A,ASSREV,A023793,Revaluation in FX Gain/Loss in Foreign Currency Denominated TD-USD LBP AFS,1101007010.0
+628,A,ASSREV,A023794,Revaluation in FX Gain/Loss in Foreign Currency Denominated TD-USD LBP HFT,1101007010.0
+629,A,ASSREV,A023792,Revaluation in FX Gain/Loss in Foreign Currency Denominated TD-USD LBP HTM,1101007010.0
+630,A,ASSREV,A023796,Revaluation in FX Gain/Loss in Foreign Currency Denominated TD-USD MBTC AFS,1101007011.0
+631,A,ASSREV,A023797,Revaluation in FX Gain/Loss in Foreign Currency Denominated TD-USD MBTC HFT,1101007011.0
+632,A,ASSREV,A023795,Revaluation in FX Gain/Loss in Foreign Currency Denominated TD-USD MBTC HTM,1101007011.0
+633,A,ASSREV,A023799,Revaluation in FX Gain/Loss in Foreign Currency Denominated TD-USD PNB AFS,1101007005.0
+634,A,ASSREV,A023800,Revaluation in FX Gain/Loss in Foreign Currency Denominated TD-USD PNB HFT,1101007005.0
+635,A,ASSREV,A023798,Revaluation in FX Gain/Loss in Foreign Currency Denominated TD-USD PNB HTM,1101007005.0
+636,A,ASSREV,A023802,Revaluation in FX Gain/Loss in Foreign Currency Denominated TD-USD UBP AFS,1101007007.0
+637,A,ASSREV,A023803,Revaluation in FX Gain/Loss in Foreign Currency Denominated TD-USD UBP HFT,1101007007.0
+638,A,ASSREV,A023801,Revaluation in FX Gain/Loss in Foreign Currency Denominated TD-USD UBP HTM,1101007007.0
+639,A,ASSREV,A023690,Revaluation in FX Gain/Loss in FXTN HTM,1201003003.0
+640,A,ASSREV,A023702,Revaluation in FX Gain/Loss in Government Bonds HTM,1201003003.0
+641,A,ASSREV,A023688,Revaluation in FX Gain/Loss in Preferred Shares AFS,1102006000.0
+642,A,ASSREV,A023689,Revaluation in FX Gain/Loss in Preferred Shares HFT,1102006000.0
+643,A,ASSREV,A023775,Revaluation in FX Gain/Loss in Preferred Shares	 - OCI AFS,1201001000.0
+644,A,ASSREV,A023774,Revaluation in FX Gain/Loss in Preferred Shares	 - OCI HTM,1201001000.0
+645,A,ASSREV,A023714,Revaluation in FX Gain/Loss in Promissory Note HTM,1201004006.0
+646,A,ASSREV,A023696,Revaluation in FX Gain/Loss in RDB HTM,1201003003.0
+647,A,ASSREV,A023693,Revaluation in FX Gain/Loss in RTB HTM,1201003003.0
+648,A,ASSREV,A023753,Revaluation in FX Gain/Loss in SSD - Dollar BDO HTM,1101007004.0
+649,A,ASSREV,A023750,Revaluation in FX Gain/Loss in SSD - Dollar DBP HTM,1101007008.0
+650,A,ASSREV,A023747,Revaluation in FX Gain/Loss in SSD - Dollar LBP HTM,1101007010.0
+651,A,ASSREV,A023744,Revaluation in FX Gain/Loss in SSD - Dollar MBTC HTM,1101007011.0
+652,A,ASSREV,A023756,Revaluation in FX Gain/Loss in SSD - Dollar PNB HTM,1101007005.0
+653,A,ASSREV,A023759,Revaluation in FX Gain/Loss in SSD - Dollar UBP HTM,1101007007.0
+654,A,ASSREV,A023822,Revaluation in FX Gain/Loss in STMP FCD Time Deposit-USD BDO HTM,1102002003.0
+655,A,ASSREV,A023825,Revaluation in FX Gain/Loss in STMP FCD Time Deposit-USD PNB HTM,1102002004.0
+656,A,ASSREV,A023828,Revaluation in FX Gain/Loss in STMP FCD Time Deposit-USD UBP HTM,1102002002.0
+657,A,ASSREV,A023780,Revaluation in FX Gain/Loss in Tokenized Treasury Bond HTM,1201003003.0
+658,A,ASSREV,A020939,Revaluation in FXTN AFS,1201002006.0
+659,A,ASSREV,A020940,Revaluation in FXTN HFT,1102006020.0
+660,A,ASSREV,A021107,Revaluation in Government Bonds AFS,1201002006.0
+661,A,ASSREV,A021108,Revaluation in Government Bonds HFT,1102006020.0
+662,A,ASSREV,A020897,Revaluation in Preferred Shares HFT,1102006000.0
+663,A,ASSREV,A022242,Revaluation in Preferred Shares	 - OCI AFS,1201001000.0
+664,A,ASSREV,A021275,Revaluation in Promissory Note AFS,1201002012.0
+665,A,ASSREV,A020981,Revaluation in RTB AFS,1201002006.0
+666,A,ASSREV,A020982,Revaluation in RTB HFT,1102006020.0
+667,A,ASSREV,A022315,Revaluation in Tokenized Treasury Bond AFS,1201002006.0
+668,A,ASSREV,A022316,Revaluation in Tokenized Treasury Bond HFT,1102006020.0
+669,L,Reserves,L022221,Revaluation Reserve in Common Shares - OCI AFS,3002000000.0
+670,L,Reserves,L021151,Revaluation Reserve in Corporate Bonds AFS,3002000002.0
+671,L,Reserves,L020941,Revaluation Reserve in FXTN AFS,3002000001.0
+672,L,Reserves,L021109,Revaluation Reserve in Government Bonds AFS,3002000001.0
+673,L,Reserves,L022244,Revaluation Reserve in Preferred Shares	 - OCI AFS,3002000000.0
+674,L,Reserves,L020983,Revaluation Reserve in RTB AFS,3002000001.0
+675,L,Reserves,L022317,Revaluation Reserve in Tokenized Treasury Bond AFS,3002000001.0
+676,A,SundryDebtors,A020883,RIZAL COMMERCIAL BANKING CORPORATION - CP20,2101001003.0
+677,A,SundryDebtors,A020883,RIZAL COMMERCIAL BANKING CORPORATION - CP20,1103024002.0
+678,A,SundryDebtors,A020883,RIZAL COMMERCIAL BANKING CORPORATION - CP20,2101001003.0
+679,A,SundryDebtors,A020883,RIZAL COMMERCIAL BANKING CORPORATION - CP20,1103024001.0
+680,A,SundryDebtors,A020884,ROBINSONS BANK CORPORATION - CP21,2101001003.0
+681,A,SundryDebtors,A020884,ROBINSONS BANK CORPORATION - CP21,1103024002.0
+682,A,SundryDebtors,A020884,ROBINSONS BANK CORPORATION - CP21,2101001003.0
+683,A,SundryDebtors,A020884,ROBINSONS BANK CORPORATION - CP21,1103024001.0
+684,A,SundryDebtors,A020740,SALISBURY SECURITIES CORPORATION - BK48,2101001003.0
+685,A,SundryDebtors,A020740,SALISBURY SECURITIES CORPORATION - BK48,1103024002.0
+686,A,SundryDebtors,A020740,SALISBURY SECURITIES CORPORATION - BK48,2101001003.0
+687,A,SundryDebtors,A020740,SALISBURY SECURITIES CORPORATION - BK48,1103024001.0
+688,A,SundryDebtors,A020885,SB CAPITAL INVESTMENT CORPORATION - CP22,2101001003.0
+689,A,SundryDebtors,A020885,SB CAPITAL INVESTMENT CORPORATION - CP22,1103024002.0
+690,A,SundryDebtors,A020885,SB CAPITAL INVESTMENT CORPORATION - CP22,2101001003.0
+691,A,SundryDebtors,A020885,SB CAPITAL INVESTMENT CORPORATION - CP22,1103024001.0
+692,A,SundryDebtors,A020743,"SB EQUITIES, INC. - BK49",2101001003.0
+693,A,SundryDebtors,A020743,"SB EQUITIES, INC. - BK49",1103024002.0
+694,A,SundryDebtors,A020743,"SB EQUITIES, INC. - BK49",2101001003.0
+695,A,SundryDebtors,A020743,"SB EQUITIES, INC. - BK49",1103024001.0
+696,A,Bank,A022190,SBC - Savings Account - 0162042529200,1101012003.0
+697,A,SundryDebtors,A020886,SECURITY BANK CORPORATION - CP23,2101001003.0
+698,A,SundryDebtors,A020886,SECURITY BANK CORPORATION - CP23,1103024002.0
+699,A,SundryDebtors,A020886,SECURITY BANK CORPORATION - CP23,2101001003.0
+700,A,SundryDebtors,A020886,SECURITY BANK CORPORATION - CP23,1103024001.0
+701,A,SundryDebtors,A020723,THE FIRST RESOURCES MANAGEMENT & SECURITIES CORPORATION - BK39,2101001003.0
+702,A,SundryDebtors,A020723,THE FIRST RESOURCES MANAGEMENT & SECURITIES CORPORATION - BK39,1103024002.0
+703,A,SundryDebtors,A020723,THE FIRST RESOURCES MANAGEMENT & SECURITIES CORPORATION - BK39,2101001003.0
+704,A,SundryDebtors,A020723,THE FIRST RESOURCES MANAGEMENT & SECURITIES CORPORATION - BK39,1103024001.0
+705,A,SundryDebtors,A020875,THE HONG KONG AND SHANGHAI BANKING CORPORATION LIMITED - PHILIPPINE BRANCH - CP12,2101001003.0
+706,A,SundryDebtors,A020875,THE HONG KONG AND SHANGHAI BANKING CORPORATION LIMITED - PHILIPPINE BRANCH - CP12,1103024002.0
+707,A,SundryDebtors,A020875,THE HONG KONG AND SHANGHAI BANKING CORPORATION LIMITED - PHILIPPINE BRANCH - CP12,2101001003.0
+708,A,SundryDebtors,A020875,THE HONG KONG AND SHANGHAI BANKING CORPORATION LIMITED - PHILIPPINE BRANCH - CP12,1103024001.0
+709,A,Bank,A022180,UBP - Savings Account - 000400008506,1101015063.0
+710,A,SundryDebtors,A023876,UBS AG (Foreign) - BK54,2101001003.0
+711,A,SundryDebtors,A023876,UBS AG (Foreign) - BK54,1103024002.0
+712,A,SundryDebtors,A023876,UBS AG (Foreign) - BK54,2101001003.0
+713,A,SundryDebtors,A023876,UBS AG (Foreign) - BK54,1103024001.0
+714,A,SundryDebtors,A020744,"UBS SECURITIES PHILIPPINES, INC. - BK50",2101001003.0
+715,A,SundryDebtors,A020744,"UBS SECURITIES PHILIPPINES, INC. - BK50",1103024002.0
+716,A,SundryDebtors,A020744,"UBS SECURITIES PHILIPPINES, INC. - BK50",2101001003.0
+717,A,SundryDebtors,A020744,"UBS SECURITIES PHILIPPINES, INC. - BK50",1103024001.0
+718,L,NoncurrentLiability,A021251,Unamortized Discount in Commercial Paper HTM,1201003021.0
+719,L,NoncurrentLiability,A021167,Unamortized Discount in Corporate Bonds HTM,1201003023.0
+720,L,NoncurrentLiability,A021209,Unamortized Discount in Corporate Notes HTM,1201003021.0
+721,L,NoncurrentLiability,A020957,Unamortized Discount in FXTN HTM,1201003011.0
+722,L,NoncurrentLiability,A021125,Unamortized Discount in Government Bonds HTM,1201003011.0
+723,L,NoncurrentLiability,A021083,Unamortized Discount in Government Notes HTM,1201003015.0
+724,L,NoncurrentLiability,A021293,Unamortized Discount in Promissory Note HTM,1201003021.0
+725,L,NoncurrentLiability,A020999,Unamortized Discount in RTB HTM,1201003011.0
+726,L,NoncurrentLiability,A022333,Unamortized Discount in Tokenized Treasury Bond HTM,1201003011.0
+727,A,NoncurrentAsset,I021254,Unamortized Premium in Commercial Paper HTM,1201003020.0
+728,A,NoncurrentAsset,I021170,Unamortized Premium in Corporate Bonds HTM,1201003022.0
+729,A,NoncurrentAsset,I021212,Unamortized Premium in Corporate Notes HTM,1201003020.0
+730,A,NoncurrentAsset,I020960,Unamortized Premium in FXTN HTM,1201003010.0
+731,A,NoncurrentAsset,I021128,Unamortized Premium in Government Bonds HTM,1201003010.0
+732,A,NoncurrentAsset,I021086,Unamortized Premium in Government Notes HTM,1201003014.0
+733,A,NoncurrentAsset,A022336,Unamortized Premium in Tokenized Treasury Bond HTM,1201003010.0
+734,A,SundryDebtors,A020887,UNION BANK OF THE PHILIPPINES - CP24,2101001003.0
+735,A,SundryDebtors,A020887,UNION BANK OF THE PHILIPPINES - CP24,1103024002.0
+736,A,SundryDebtors,A020747,"WEALTH SECURITIES, INC. - BK51",2101001003.0
+737,A,SundryDebtors,A020747,"WEALTH SECURITIES, INC. - BK51",1103024002.0
+738,A,SundryDebtors,A020747,"WEALTH SECURITIES, INC. - BK51",2101001003.0
+739,A,SundryDebtors,A020747,"WEALTH SECURITIES, INC. - BK51",1103024001.0
