@@ -20,7 +20,7 @@ def read_and_process_file(file):
     return df
 
 def main():
-    st.title("Excel File Processor")
+    st.title("Excel File Consolidator for SAP GL")
 
     # Sidebar for file selection
     st.sidebar.header("File Selection")
